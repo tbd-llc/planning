@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Concept](https://github.com/tbd-llc/planning#concept)
+- [User Stories](https://github.com/tbd-llc/planning#user-stories)
 - [Communication](https://github.com/tbd-llc/planning#communication)
 - [Resources](https://github.com/tbd-llc/planning#resources)
 
