@@ -23,8 +23,35 @@ Enter Patsi! Patsi aggregates your job search into a single tool that is managed
 
 ...and so much more!
 
+## User Stories
+- [ ] As a User I want to click a button in my Gmail so that I can see a dashboard of the present status of my job search.
+- [ ] As a User I want to see a "spreadsheet" and / or "Kanban board" of my job search in my dashboard so I can better visualize the present status of my job search.
+- [ ] As a User I want to be able to compare my search metrics against other Users who share my [NAICS code](https://www.census.gov/naics/) so I can benchmark my job search strategy against other Users.
+- [ ] As a User I want to be able to isolate my job hunt emails - by tag - so that only those emails can be read by the program.
+- [ ] As a User I want to be able to read all of the parsed Job Descriptions within the program's Gmail interface so I don't have to click several links to get to the information that I want to read.
+- [ ] As a User I want to be able to skim all of the parsed Job Description's basic data (i.e. software, year's of experience, requirements, necessary skills, etc.) in my Dashboard view so I can get a bird's eye view of whether the job is worth investigating.
+- [ ] As a User I want to be able to filter out job descriptions that do not match my skills by a certain percentage so I only see those job descriptions that I deem relevant in my dashboard.
+- [ ] As a User I want to be able to add companies to my dashboard so that I am alerted when a new job is posted for that organization that I might be a fit for.
+- [ ] As a User I want to be able to receive alerts when a job description at a company I've prioritized / starred has posted a job I'm qualified for so I can apply quickly to the position.
+- [ ] As a User I want to be able to receive alerts when a job description has been parsed that is above a percentage relevancy that I set so I can apply quickly to the position.
+- [ ] As a User I want to be able to enter my present qualifications, skills, and next role / title for the program to use in excerpting / parsing job descriptions links from various job hunt emails I receive. 
+- [ ] As a User I want to be able to enter various iterations of my resume bullet points to the program so that I can generate a more accurate resume template requiring less tweaking before I actually apply to the job.
+- [ ] As a User I want to be able to enter various iterations of my cover letter paragraphs to the program so that I can generate a more accurate cover letter template requiring less tweaking before I actually apply to the job.
+- [ ] As a User I want to be able to create associations between the resume bullet points I enter into the program and the jobs I held where I performed that bullet so I can be sure when the template is created the bullet is appropriately assigned to the right position.
+- [ ] As a User I want to be able to enter a company that I worked for, the dates that I worked there, and the position I held so that the program can prepopulate that information in the resume template.
+- [ ] As a User I want to be able to upload a letterhead format that will be used when creating a template resume so I do not have to copy and paste the generated text into the letterhead.
+- [ ] As a User I want to be able to upload a letterhead format that will be used when creating a template cover letter so I do not have to copy and paste the generated text into the letterhead.
+- [ ] As a User I want the program to automatically ignore [common unhelpful](https://en.wikipedia.org/wiki/Most_common_words_in_English) words so that the returned results are more accurate.
+
 ## Communication
 Communication with the larger team will primarily occur either via email or [Slack](https://join.slack.com/t/slack-zpl9544/shared_invite/zt-1xjuujyvk-Kas4hWXpiPX89BYQr5pAsA).
+
+### Time Zone Considerations
+Given everyone's respective time zones, the following two-hour block works best for scheduling purposes:
+
+PST (08:00a - 10:00a): Ryan
+EST (11:00a - 01:00p): Greg, Scott
+BST (04:00p - 06:00p): Jacob, Chris
 
 ## Resources
 ### Similar Software (My Original Inspiration)
@@ -37,3 +64,7 @@ Communication with the larger team will primarily occur either via email or [Sla
 - [Gmail API Reference](https://developers.google.com/gmail/api/reference/rest)
 - [Google Docs API Reference](https://developers.google.com/docs/api/reference/rest)
 - [Google Calendar API Reference](https://developers.google.com/calendar/api/v3/reference)
+
+### Standardizing Data
+- [NAICS Code Reference](https://www.census.gov/naics/)
+- [Most common words in English](https://en.wikipedia.org/wiki/Most_common_words_in_English)
