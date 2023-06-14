@@ -1,5 +1,10 @@
 # TBD, LLC
 
+## Table of Contents
+- [Concept](https://github.com/tbd-llc/planning#concept)
+- [Communication](https://github.com/tbd-llc/planning#communication)
+- [Resources](https://github.com/tbd-llc/planning#resources)
+
 ## Concept
 **Working Title:** "Patsi" (Personal Application Tracking System Interface)
 
@@ -20,3 +25,15 @@ Enter Patsi! Patsi aggregates your job search into a single tool that is managed
 
 ## Communication
 Communication with the larger team will primarily occur either via email or [Slack](https://join.slack.com/t/slack-zpl9544/shared_invite/zt-1xjuujyvk-Kas4hWXpiPX89BYQr5pAsA).
+
+## Resources
+### Similar Software (My Original Inspiration)
+- [Streak](https://www.streak.com/)
+
+### Google Workspace / Gmail
+- [Google Workspace Add-ons](https://developers.google.com/workspace/add-ons)
+- [Extend Google Workspace with add-ons](https://developers.google.com/apps-script/add-ons/overview)
+- [Build A Google Workspace Add-On in any coding language](https://developers.google.com/workspace/add-ons/guides/alternate-runtimes)
+- [Gmail API Reference](https://developers.google.com/gmail/api/reference/rest)
+- [Google Docs API Reference](https://developers.google.com/docs/api/reference/rest)
+- [Google Calendar API Reference](https://developers.google.com/calendar/api/v3/reference)
